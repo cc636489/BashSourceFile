@@ -1,0 +1,20 @@
+alias lsp='clear;ls -lh;pwd;'
+
+alias cdw='clear;cd /workspace/;ls -lh;pwd'
+alias cdh='clear;cd /h1/chen/;ls -lh;pwd'
+alias cdg='clear;cd /org/groups/chg/;ls -lh;pwd'
+alias cdm='clear;cd /h1/chen/Documents/MATLAB/;ls -lh;pwd'
+alias cde='clear;cd /workspace/Documentation/Research_Doc/MITgcm_Doc/MITgcmInputFile/exforinput/;ls -lh;pwd'
+
+alias lonestar='clear;ssh chen458@ls5.tacc.utexas.edu'
+alias lonestar1='clear;ssh -x -t chen458@ls5.tacc.utexas.edu'
+alias stampede='clear;ssh chen458@stampede.tacc.utexas.edu'
+alias stampede1='clear;ssh -x -t chen458@stampede.tacc.utexas.edu'
+
+alias cd..='cd ..'
+alias c="clear && ls"
+alias e='exit'
+
+alias vimrc="vim ~/.bashrc"
+alias va="vim /h1/chen/.bash_alias_chen"
+alias bashs="source ~/.bashrc"
